@@ -80,6 +80,11 @@ nav a{
 
 /* Main section style */
 
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
 /* About Section Style */
 
 .about{
